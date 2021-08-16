@@ -29,8 +29,11 @@ Unveiling the amazing facts & information about our universe.
 📫 Reach out to me for feedbacks :v:
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/dipneet-kaur-1aa5b416a/)
+  
 [<img src="https://img.icons8.com/color/48/000000/instagram.png" width="3.5%"/>](https://www.instagram.com/dipneet_kaur/)
+  
 [<img src="https://img.icons8.com/color/48/000000/github.png" width="3.5%"/>](https://github.com/DIPNEET)
+  
 [<img src="https://img.icons8.com/color/48/000000/gmail.png" width="3.5%"/>](mailto:dksandhu97@gmail.com)
 
 
