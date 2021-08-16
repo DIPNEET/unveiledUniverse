@@ -13,7 +13,7 @@ Unveiling the amazing facts & information about our universe.
 <div style="display:flex-wrap;flex-direction:row;padding:0px;" >
 
 <img width=200 height=300 src='snapshots/Screenshot_2021-08-16-21-25-47-705_host.exp.exponent.jpg'/>
-<img width=200 height=1300 src='snapshots/Screenshot_2021-08-16-21-27-56-366_host.exp.exponent.jpg'/>
+<img width=200 height=300 src='snapshots/Screenshot_2021-08-16-21-27-56-366_host.exp.exponent.jpg'/>
 <img width=200 height=300 src='snapshots/Screenshot_2021-08-16-21-28-07-676_host.exp.exponent.jpg'/>
 <img width=200 height=300 src='snapshots/Screenshot_2021-08-16-21-30-03-978_host.exp.exponent.jpg'/>
 <img width=200 height=300 src='snapshots/Screenshot_2021-08-16-21-30-52-300_host.exp.exponent.jpg'/>
