@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "unveileduniverse",
+    "slug": "snack-8c6a2cee-65ee-4d71-9c78-74dcb85c8110",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/sticker1.png",
+    "splash": {
+      "image":"./assets/sticker1.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+   
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+   
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package":"com.dipneet.unveiledUniverse",
+      "adaptiveIcon": {
+       
+        "foregroundImage":"./assets/sticker1.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/sticker1.png"
+    }
+  }
+}
