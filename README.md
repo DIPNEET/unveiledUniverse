@@ -1,4 +1,3 @@
-# Unveiled Universe 
 ## By Dipneet Kaur
 
 <p style="padding:0px;fontFamily:cursive;">
